@@ -9,7 +9,7 @@ export default function App() {
         <h1>Weather App</h1>
         <Weather />
         <footer>
-          Weather App This project was coded by Kai and is
+          This project was coded by Ashikai and is
           <a
             href="https://github.com/Naa-A/she-codes-weather-app-week-five"
             target="_blank"
